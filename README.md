@@ -1,5 +1,7 @@
 # Dragon Slayer Game
 
+![Star Wars Cuckoo Clock](./docs/img/demo.gif)
+
 Dragon Slayer is a simple game written in Processing where the player has to kill a dragon with a limited number of ammos. This project was created for fun and experimenting with basic 2D animations.
 
 ## Requirements
@@ -12,7 +14,7 @@ To run and build the code, you will need to have the following software installe
 
 To run the game, follow these steps:
 
-1. Download the source code from the project's GitHub repository: https://github.com/yourusername/dragon-slayer-game.
+1. Download the source code from the project's GitHub repository: https://github.com/delco97/dragon-slayer-game.
 2. Open the `DragonSlayer.pde` file in Processing.
 3. Click the "Run" button in the Processing IDE.
 4. The Dragon Slayer game will start running.
